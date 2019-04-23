@@ -1,1 +1,1 @@
-"#Practiving sorting and searching an array"
+"#Practicing sorting and searching an array"
